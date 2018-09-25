@@ -18,13 +18,15 @@ def get_value1(x):
 
 def main():
 
-    a1 = 0
-    b1 = 0
-    c1 = 0
-    x = 2
-    y = 2
-    k = 2
-    k1 = 2
+    # Bad variable names sincec its quick program
+    a1  =   0
+    b1  =   0
+    c1  =   0
+    x   =   2
+    y   =   2
+    k   =   2
+    k1  =   2
+
     functionC_vs_A = 0
     functionC_vs_B = 0
 
@@ -68,6 +70,7 @@ def main():
     #print(functionB(1163))
     print(functionB(2.65))
     print(functionC(2.65))
+
 main()
 
 #first value: 1162.757999979393 (using .001 accuracy)
